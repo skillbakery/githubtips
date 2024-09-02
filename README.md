@@ -8,3 +8,4 @@ Tips on how to use GitHub smartly
 6. Delete branch after merge.
 7. Draft PR Request.
 8. Add Suggestions in a Github PR Review
+9. Re-Request a PR Review
